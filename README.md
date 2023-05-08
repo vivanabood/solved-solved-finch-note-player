@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-finch-note-player
+<br>
+Have your program read data from a file. The Finch will use the data in the file to play musical notes (make beeping sounds). The file is named Lab5Data.txt and is provided for you on the S: drive in the lab assignment folder. The Lab5Data.txt file has sets of 2 integers representing the frequency and duration of musical notes. Use the playTone() method of the Finch class which requires 2 integer values to execute a tone. Notice the data file has some non-integer data which the Finch will ignore. When a non-integer value is read from the file the Finch will turn its beak red for 1 second. While the Finch is playing notes the beak is green.
